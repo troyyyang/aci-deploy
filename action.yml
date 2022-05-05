@@ -1,5 +1,5 @@
 name: 'Deploy to Azure Container Instances (Private IP)'
-description: 'Deploy to Containers to Azure Container Instances. github.com/Azure/Actions'
+description: 'Fork of a fork that allows private IPs for ACI deploy'
 inputs:
     resource-group:
         description: 'Name of the Resource Group in which the Container Instance will be created'
